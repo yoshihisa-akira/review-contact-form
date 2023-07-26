@@ -10,7 +10,7 @@
 .form__group {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 }
 
 .form__group-title {
@@ -25,10 +25,6 @@
     color: #aaa;
     margin-left: 5px;
     padding: 4px 6px;
-}
-
-.form__group-content {
-    display: flex;
 }
 
 .form__error {
